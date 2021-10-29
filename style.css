@@ -1,0 +1,26 @@
+body
+{
+background-image: url(https://i.pinimg.com/originals/02/bd/25/02bd252ba1c5e136ae007751ae606529.jpg);
+align-items: center;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+.instructions_image{
+    display: inline-block;
+    width: 45%;
+}
+
+canvas{
+    margin-left: 300;
+}
+
+h3{
+    color: yellow;
+    bottom: 0;
+    position:fixed;
+    text-align: center;
+    font-weight: bold;
+}
